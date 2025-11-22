@@ -1,4 +1,4 @@
-; Factorial iterativo (no recursivo) - compatible con tu cpu_simulator
+; Factorial iterativo 
 ; Calcula 6! = 720 y lo imprime con OUT
 
 start:
